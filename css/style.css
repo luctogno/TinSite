@@ -2,3 +2,15 @@
     margin-top: 20px;
     margin-bottom: 0px;
 }
+
+footer {
+  width: 100%;
+  overflow: hidden;
+  background-color: white;
+  height: 50px;
+}
+
+footer > div.copyright {
+margin-top: 15px;
+text-align: center;
+}

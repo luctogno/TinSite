@@ -407,10 +407,12 @@ a.btn-left:hover, .top-header .social-top ul li a:hover, .main-header .menu-wrap
   color: #2c2c2c;
 }
 .main-header .menu-wrapper ul li a:hover {
-  color: #f69730;
+  /*color: #f69730;*/
+  color: rgb(1, 124, 191);
 }
 .main-header .menu-wrapper ul li.active a {
-  color: #f69730;
+  /*color: #f69730;*/
+  color: rgb(1, 124, 191);
 }
 .main-header .menu-wrapper ul li ul {
   position: absolute;
@@ -724,7 +726,7 @@ a.btn-left:hover, .top-header .social-top ul li a:hover, .main-header .menu-wrap
 .content-wrapper {
   border-top: 1px solid white;
   background: #efefef;
-  padding-bottom: 80px;
+  /* padding-bottom: 80px; */
 }
 
 .section-header {
